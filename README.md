@@ -9,3 +9,5 @@ Details:
 - Default language it queries for is Javascript. Can be changed in the code
 
 Feel free to use and modify the code for learning or any other uses.
+
+License: ISC
